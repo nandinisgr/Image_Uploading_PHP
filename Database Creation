@@ -1,0 +1,6 @@
+Create a database called image_upload 
+and 
+create a table called images with fields:
+id 
+image - varchar(30)
+image_text 
